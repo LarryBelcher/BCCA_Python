@@ -1,0 +1,10 @@
+README for BCCA_Python Project
+
+This project contains several scripts that have been developed to process CMIP5 BCCA
+data. Im most cases, the original data have been produced by the various scripts in
+Dave Blodgett's derivatives_runner repository (https://github.com/dblodgett-usgs/derivatives_runner)
+This project will likely be ongoing and new scripts will be added as new data requests are made for 
+the CRT.
+
+
+
